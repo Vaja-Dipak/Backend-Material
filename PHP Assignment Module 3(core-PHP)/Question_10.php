@@ -1,6 +1,6 @@
 <!-- PHP Assignment Module-3 (Core PHP) -->
 
-<!-- How can you tell if a number is even or odd without using any Condition or loop?  -->
+How can you tell if a number is even or odd without using any Condition or loop? <br><br>
 
 
 <form action="">

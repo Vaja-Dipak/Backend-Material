@@ -1,6 +1,6 @@
 <!-- PHP Assignment Module-3 (Core PHP) -->
 
-<!-- Write a PHP program to check Leap years between 1901 to 2016 Using nested if. -->
+Write a PHP program to check Leap years between 1901 to 2016 Using nested if.
 
 
 <?php

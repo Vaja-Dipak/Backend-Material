@@ -1,6 +1,6 @@
 <!-- PHP Assignment Module-3 (Core PHP) -->
 
-<!-- Write a program to find whether a number is Armstrong or not  -->
+Write a program to find whether a number is Armstrong or not <br><br><br>
 
 
 <form action="">

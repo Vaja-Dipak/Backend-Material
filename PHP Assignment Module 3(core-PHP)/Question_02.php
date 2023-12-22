@@ -1,7 +1,6 @@
 <!-- PHP Assignment Module-3 (Core PHP) -->
 
-<!-- write a PHP program for find „Thursday‟ in week using switch Function.  -->
-
+write a PHP program for find „Thursday‟ in week using switch Function. <br><br><br>
 
 
 <form action="">

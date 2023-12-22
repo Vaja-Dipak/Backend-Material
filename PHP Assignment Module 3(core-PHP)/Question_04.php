@@ -1,6 +1,6 @@
 <!-- PHP Assignment Module-3 (Core PHP) -->
 
-<!-- Write a PHP program to find the largest of three numbers using ternary Operator. -->
+Write a PHP program to find the largest of three numbers using ternary Operator. <br><br><br>
 
 
 <form action="">

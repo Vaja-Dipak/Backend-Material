@@ -1,7 +1,7 @@
 <!-- PHP Assignment Module-3 (Core PHP) -->
 
-<!-- write a php program to How can you declare the array (all type) in PHP? Explain with 
-example Covert a JSON string to array. -->
+write a php program to How can you declare the array (all type) in PHP? Explain with 
+example Covert a JSON string to array. <br><br>
 
 
 <?php
@@ -19,6 +19,9 @@ $f[] = "Data";                                          // Declaring Dynamic arr
 $arraystr = '{"name":"John","age":30,"city":"New York"}';
 $jsonstr = json_decode($arraystr, true);
 
+echo "Json String :";
+print_r($arraystr);
+echo "<br> Array String :";
 print_r($jsonstr);
 
 ?>

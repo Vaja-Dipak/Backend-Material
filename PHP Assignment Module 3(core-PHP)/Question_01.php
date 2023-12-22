@@ -1,7 +1,7 @@
-<!-- PHP Assignment Module-3 (Core PHP)
+<!-- PHP Assignment Module-3 (Core PHP) -->
 
 Write a PHP program to enter marks of five subjects Physics, Chemistry, Biology, Mathematics and 
-Computer calculate percentage and grade by if else. -->
+Computer calculate percentage and grade by if else.
 
 <h2>Please Enter Our Subjects Marks: </h2><br>
 
